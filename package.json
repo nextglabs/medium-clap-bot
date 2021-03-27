@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chrome-remote-interface": "^0.29.0",
+    "fs": "^0.0.1-security",
+    "playwright": "^1.9.2",
+    "puppeteer": "^8.0.0",
+    "puppeteer-email": "^0.1.0",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-adblocker": "^2.11.10",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.2.16",
+    "puppeteer-extra-plugin-stealth": "^2.7.5",
+    "puppeteer-extra-plugin-user-preferences": "^2.2.11"
+  }
+}
