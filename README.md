@@ -1,5 +1,5 @@
 # Medium Clap Bot
-This script uses libraries to remain undetectable and randomized typing to appear somewhat human, however you should use it at your own risk.  Currently only supports login with Google.  
+Grab the attention of thousands of readers interested in the topic you are blogging about on Medium.  Uses randomized typing and libraries to remain undetectable. 
 
 ![](https://github.com/paymon123/medium-clap-bot/blob/master/demo.gif)
 
