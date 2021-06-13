@@ -2,6 +2,7 @@
 Grab the attention of thousands of readers interested in the topic you are blogging about on Medium.  Uses randomized typing and libraries to remain undetectable. 
 
 20x speed preview
+
 ![](https://github.com/paymon123/medium-clap-bot/blob/master/demo.gif)
 
 ## Configuration
